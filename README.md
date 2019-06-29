@@ -1,2 +1,2 @@
 # learning-python
-Repository for my Python study codes
+Repository for learning Python and Git.
